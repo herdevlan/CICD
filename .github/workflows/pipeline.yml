@@ -1,4 +1,4 @@
-name: CI CD Pipeline with Maven
+name: CICD Pipeline with Maven
 
 on:
   push:
