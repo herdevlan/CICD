@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo! - COMMIT PARA GITHUB ACTIONS 17 de Junio de 2025 11:00pm" /></h1>
+                <h1><h:outputText value="Hola Mundo! - COMMIT LA IMAGEN DE DOCKER HUB 25 de Junio de 2025 17:05 pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="Todos los Productos" id="linkProds" />
                 <br/>
